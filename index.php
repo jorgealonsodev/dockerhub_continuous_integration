@@ -1,3 +1,3 @@
 <?php
 
-$greeting = "Hello";
+$greeting = "Hello, hey";
